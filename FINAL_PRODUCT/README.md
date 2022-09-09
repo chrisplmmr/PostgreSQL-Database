@@ -1,0 +1,1 @@
+NOTE: QUESTION 1 WILL NOT WORK WITHOUT "adj.txt"!!!!!
